@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # cookbook filename: func_choice.2
 CHOICE=''
 until [ "$CHOICE" = "y" ]; do

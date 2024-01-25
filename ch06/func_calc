@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # cookbook filename: func_calc
 
 # Trivial command-line calculator

@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 # cookbook filename: func_choice.1
 
 # Let the user make a choice about something and return a standardized
